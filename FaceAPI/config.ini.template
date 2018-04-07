@@ -1,0 +1,3 @@
+## for Face API
+[setting]
+SUBSCRIPTION_KEY = <your subscription key on Azure>
